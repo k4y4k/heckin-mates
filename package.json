@@ -1,0 +1,18 @@
+{
+  "name": "@example/pug",
+  "version": "0.0.1",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vituum/vite-plugin-pug": "^1",
+    "vituum": "^1"
+  },
+  "dependencies": {
+    "vite": "^5.2.10"
+  }
+}
