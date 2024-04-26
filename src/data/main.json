@@ -1,4 +1,3 @@
 {
-  "template": "layouts/main.pug",
-  "navigation": ["index", "about", "hello"]
+  "template": "layouts/main.pug"
 }
