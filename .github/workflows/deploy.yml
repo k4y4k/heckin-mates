@@ -38,5 +38,5 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "kayak-heckin-mate-94"
-          entrypoint: "index.html"
+          entrypoint: ""
           root: "dist/"
